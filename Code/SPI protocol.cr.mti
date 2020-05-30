@@ -1,0 +1,30 @@
+{F:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v} {1 {vlog -work work -stats=none {F:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Slave
+-- Compiling module Slave_tb
+
+Top level modules:
+	Slave_tb
+
+} {} {}} {F:/College/1st year/Second semester/Logic Design/Project/Code/master.v} {1 {vlog -work work -stats=none {F:/College/1st year/Second semester/Logic Design/Project/Code/master.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module master
+-- Compiling module master_tb
+
+Top level modules:
+	master
+	master_tb
+
+} {} {}} {F:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v} {1 {vlog -work work -stats=none {F:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Integration
+-- Compiling module integration_tb
+-- Compiling module integration_tb2
+-- Compiling module mux_4to1_case
+
+Top level modules:
+	Integration
+	integration_tb
+	integration_tb2
+
+} {} {}}

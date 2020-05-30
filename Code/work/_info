@@ -1,0 +1,181 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0
+vIntegration
+Z0 !s110 1590837092
+!i10b 1
+!s100 KED<Z>z:C0PUkYL4bAc8M3
+I@<S444Lz18_5z3S[K1zZ02
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dF:/College/1st year/Second semester/Logic Design/Project/Code
+Z3 w1590835351
+Z4 8F:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v
+Z5 FF:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1590837092.000000
+Z8 !s107 F:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|F:/College/1st year/Second semester/Logic Design/Project/Code/Integration.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+n@integration
+vintegration_tb
+R0
+!i10b 1
+!s100 W95oajnmKlJd[B7F6N5UF1
+IXi_cEc>z3_QT3mUK^^KZz0
+R1
+R2
+R3
+R4
+R5
+L0 44
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vintegration_tb2
+R0
+!i10b 1
+!s100 Fb85PM5cX3K;Q]1;VfA4R0
+IjAJ_mjiUOc9<QBQP>jlMW3
+R1
+R2
+R3
+R4
+R5
+L0 107
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vmaster
+R0
+!i10b 1
+!s100 >VQFJCNiOC=Ck:PRE5JY[1
+IUFE9oD8?R>fmzYb=UfTio0
+R1
+R2
+Z12 w1590836037
+Z13 8F:/College/1st year/Second semester/Logic Design/Project/Code/master.v
+Z14 FF:/College/1st year/Second semester/Logic Design/Project/Code/master.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 F:/College/1st year/Second semester/Logic Design/Project/Code/master.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|F:/College/1st year/Second semester/Logic Design/Project/Code/master.v|
+!i113 1
+R10
+R11
+vmaster_tb
+R0
+!i10b 1
+!s100 028N?Q5H:HedmCFEOdL?12
+If^W?TQ[OAL<:]_beH^?ha0
+R1
+R2
+R12
+R13
+R14
+L0 170
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vmux_4to1_case
+R0
+!i10b 1
+!s100 VZhEVA@;dX4[?cjklZM090
+IMLX@Ojc6z@dL5KKX8YHam0
+R1
+R2
+R3
+R4
+R5
+L0 249
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vSlave
+R0
+!i10b 1
+!s100 nZYg[2WWY0hLS4lGeeSlV0
+I]ZTES2mh<PM2WSQa^L=YR0
+R1
+R2
+Z17 w1590837088
+Z18 8F:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v
+Z19 FF:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+Z20 !s107 F:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v|
+Z21 !s90 -reportprogress|300|-work|work|-stats=none|F:/College/1st year/Second semester/Logic Design/Project/Code/Slave.v|
+!i113 1
+R10
+R11
+n@slave
+vSlave_tb
+R0
+!i10b 1
+!s100 gE6EG>YIXJkiPY=MTSXU_3
+I[FfP1@kcTm?3VU9i=X8oh2
+R1
+R2
+R17
+R18
+R19
+L0 148
+R6
+r1
+!s85 0
+31
+R7
+R20
+R21
+!i113 1
+R10
+R11
+n@slave_tb
